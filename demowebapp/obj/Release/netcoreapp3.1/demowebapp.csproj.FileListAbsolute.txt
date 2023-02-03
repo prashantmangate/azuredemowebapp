@@ -34,3 +34,9 @@ C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\demo
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\demowebapp.pdb
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\demowebapp.genruntimeconfig.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\demowebapp.csproj.CopyComplete
+C:\Users\prash\source\repos\demowebapp\demowebapp\bin\Release\netcoreapp3.1\.filenesting.json
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\staticwebassets\demowebapp.StaticWebAssets.Pack.cache
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\staticwebassets\msbuild.demowebapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.demowebapp.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.demowebapp.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.demowebapp.props
