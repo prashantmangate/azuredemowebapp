@@ -8,6 +8,7 @@ C:\Users\prash\source\repos\demowebapp\demowebapp\bin\Debug\netcoreapp3.1\demowe
 C:\Users\prash\source\repos\demowebapp\demowebapp\bin\Debug\netcoreapp3.1\demowebapp.pdb
 C:\Users\prash\source\repos\demowebapp\demowebapp\bin\Debug\netcoreapp3.1\demowebapp.Views.dll
 C:\Users\prash\source\repos\demowebapp\demowebapp\bin\Debug\netcoreapp3.1\demowebapp.Views.pdb
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.csproj.AssemblyReference.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.AssemblyInfoInputs.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.AssemblyInfo.cs
@@ -16,6 +17,11 @@ C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowe
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.RazorAssemblyInfo.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.RazorAssemblyInfo.cs
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\demowebapp.StaticWebAssets.Manifest.cache
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\demowebapp.StaticWebAssets.Pack.cache
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.demowebapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.demowebapp.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.demowebapp.props
+C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.demowebapp.props
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.TagHelpers.input.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.TagHelpers.output.cache
 C:\Users\prash\source\repos\demowebapp\demowebapp\obj\Debug\netcoreapp3.1\demowebapp.RazorCoreGenerate.cache
